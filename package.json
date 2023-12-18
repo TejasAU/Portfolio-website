@@ -1,8 +1,11 @@
 {
   "dependencies": {
     "react-bootstrap": "^2.9.1",
+    "react-github-calendar": "^4.0.8",
     "react-icons": "^4.12.0",
     "react-parallax-tilt": "^1.7.177",
-    "react-router-dom": "^6.21.0"
+    "react-router-dom": "^6.21.0",
+    "react-tsparticles": "^2.12.2",
+    "typewriter-effect": "^2.21.0"
   }
 }
